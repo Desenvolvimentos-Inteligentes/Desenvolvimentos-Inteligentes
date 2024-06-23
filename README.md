@@ -1,5 +1,8 @@
-<img width=80% src="https://github.com/Desenvolvimentos-Inteligentes/Ecommerce/assets/173558721/90b441fd-04a2-47d6-ae1e-3a09db499470"/>
 
+<div align="center">  
+<p align="center"><img  width=80% align="center" src="https://github.com/Desenvolvimentos-Inteligentes/Ecommerce/assets/173558721/90b441fd-04a2-47d6-ae1e-3a09db499470" /></p> 
+<br>
+</div>
 <!--
 **Desenvolvimentos-Inteligentes/Desenvolvimentos-Inteligentes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +17,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Desenvolvimentos-Inteligentes}/count.svg" /></p> 
+<br>
+</div>
