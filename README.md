@@ -1,4 +1,4 @@
-## Hi there 👋
+<img width=80% src="https://github.com/Desenvolvimentos-Inteligentes/Ecommerce/assets/173558721/90b441fd-04a2-47d6-ae1e-3a09db499470"/>
 
 <!--
 **Desenvolvimentos-Inteligentes/Desenvolvimentos-Inteligentes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
